@@ -1,0 +1,2 @@
+# my-git
+learning process
